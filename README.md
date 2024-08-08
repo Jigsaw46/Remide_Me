@@ -1,6 +1,6 @@
 # Remind-Me
 
-project to practice implementing AlarmManager and large screen in Jetpack Compose
+Project focused on implementing AlarmManager and optimizing for large screens using Jetpack Compose.
 
 ## Preview
 
